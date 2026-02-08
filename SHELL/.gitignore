@@ -1,0 +1,6 @@
+.codegpt
+.gitignore
+.exe
+.vscode
+*.exe
+*.out
